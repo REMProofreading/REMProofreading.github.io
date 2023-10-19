@@ -19,7 +19,6 @@ div.scroll-container {
   white-space: nowrap;
   padding: 10px;
   display: flex;
-  flex-wrap: wrap;
   justify-content: space-around;
 }
 div.scroll-container img {
