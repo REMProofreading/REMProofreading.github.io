@@ -46,3 +46,17 @@ figcaption {
 a {
   text-decoration: none;
 }
+.gallery > img {
+  padding: 0px;
+  height: 306px;
+  width: 204px;
+  margin: auto;
+}
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 5px;
+  grid-row-gap: 5px;
+  width:100%;
+  margin: auto;
+}
