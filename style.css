@@ -42,6 +42,9 @@ info > p {
   color: #274544;
   font-family: 'Recoleta', Georgia, serif
 }
+p {
+  font-family: 'Recoleta', Georgia, serif;
+}
 figcaption {
   text-align: center;
   color: #FFFFFF;
