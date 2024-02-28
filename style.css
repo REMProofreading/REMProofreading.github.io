@@ -29,19 +29,23 @@ div.scroll-container img {
 h1 {
   text-align: center;
   color: #274544;
+  font-family: 'Recoleta', Georgia, serif
 }
 h3 {
   text-align: center;
   color: #FFFFFF;
+  font-family: 'Recoleta', Georgia, serif
 }
 info > p {
   text-align: center;
   font-weight: bold;
   color: #274544;
+  font-family: 'Recoleta', Georgia, serif
 }
 figcaption {
   text-align: center;
   color: #FFFFFF;
+  font-family: 'Recoleta', Georgia, serif
 }
 a {
   text-decoration: none;
