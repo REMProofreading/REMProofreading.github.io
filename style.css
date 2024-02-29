@@ -48,7 +48,8 @@ p {
 figcaption {
   text-align: center;
   color: #FFFFFF;
-  font-family: 'Recoleta', Georgia, serif
+  font-family: 'Recoleta', Georgia, serif;
+  font-size: small;
 }
 a {
   text-decoration: none;
