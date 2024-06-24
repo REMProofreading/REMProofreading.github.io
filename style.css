@@ -131,3 +131,25 @@ a {
   .banner {
     width: 100%;
 }
+
+.seeall {
+  margin:auto;
+  background-color: #274544;
+  text-align: center;
+  width: 20%;
+  border-radius: 20px;
+}
+.seeall a {
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  display: block;
+  text-decoration: none;
+  color: #FFF2F1;
+}
+.seeall:hover {
+  background-color: #8EDCE6;
+}
+.seeall a:hover {
+  color: #333;
+}
