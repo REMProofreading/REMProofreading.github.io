@@ -143,6 +143,7 @@ a {
     grid-template-columns: 33% 33% 33%;
     grid-gap: 20px;
     align-items: stretch;
+    max-width: 100%;
   }
 
   .banner {
