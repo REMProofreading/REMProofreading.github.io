@@ -128,4 +128,6 @@ a {
   grid-gap: 20px;
   align-items: stretch;
   }
+  .banner {
+    width: 100%;
 }
