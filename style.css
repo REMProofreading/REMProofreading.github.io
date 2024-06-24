@@ -116,3 +116,16 @@ a {
   height: 306px;
   width: 204px;
 }
+
+@media screen and (max-width: 800px) {
+  .grid img {
+    height: 153px;
+    width: 102px;
+  }
+  .grid { 
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-gap: 20px;
+  align-items: stretch;
+  }
+}
