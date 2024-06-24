@@ -153,3 +153,8 @@ a {
 .seeall a:hover {
   color: #333;
 }
+@media screen and (max-width: 800px) {
+  .seeall {
+    width: 40%;
+  }
+}
