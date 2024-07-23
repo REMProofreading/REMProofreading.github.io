@@ -181,3 +181,8 @@ a {
     width: 40%;
   }
 }
+.title {
+  color: black;
+  font-family: 'Recoleta', Georgia, serif;
+  font-weight: bold;
+}
