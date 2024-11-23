@@ -187,3 +187,7 @@ a {
   font-weight: bold;
   margin-top: 5px;
 }
+.bsky {
+  display: block;
+  margin: auto;
+}
