@@ -191,3 +191,16 @@ a {
   display: block;
   margin: auto;
 }
+.recap {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 0px;
+  align-items: stretch;
+}
+.recap img {
+  max-width: 100%;
+  height: 306px;
+  width: 204px;
+  padding: 0px;
+  margin: 0px;
+}
